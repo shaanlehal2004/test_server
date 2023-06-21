@@ -14,7 +14,7 @@
 
       "id": 2,
 
-      "title": "Post 2"
+      "title": "Post 22"
 
     },
 
@@ -34,7 +34,7 @@
 
       "id": 1,
 
-      "body": "some comment",
+      "body": "i love comments",
 
       "postId": 1
 
@@ -44,7 +44,7 @@
 
       "id": 2,
 
-      "body": "some comment",
+      "body": "this is my comment",
 
       "postId": 1
 
@@ -54,7 +54,7 @@
 
   "profile": {
 
-    "name": "typicode"
+    "name": "slehal"
 
   }
 
